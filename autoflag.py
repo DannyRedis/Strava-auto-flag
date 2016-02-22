@@ -13,7 +13,7 @@ CATEGORY = ['flag_category_1', 'flag_category_2',
 CAUSE = ["This activity was held in a motor vehicle",
           "This activity is incorrect",
           "GPS data is corrupted",
-          "Is activity was manipulated through digital EPO"]
+          "This activity was manipulated through digital EPO"]
 
 with Browser() as browser:
     browser.visit(URL_login)
