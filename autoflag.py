@@ -4,7 +4,9 @@ import time
 import random
 
 URL_login = "https://www.strava.com/login"
-URL_target = ["https://www.strava.com/activities/xxxxxxxx"];
+URL_target = ["https://www.strava.com/activities/xxxxxxxx",
+              "https://www.strava.com/activities/xxxxxxxx",
+              "https://www.strava.com/activities/xxxxxxxx"];
 EMAIL = "example@example.com"
 PASSWORD = "example"
 
