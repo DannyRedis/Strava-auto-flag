@@ -11,7 +11,7 @@ EMAIL = "example@example.com"
 PASSWORD = "example"
 
 CATEGORY = ['flag_category_1', 'flag_category_2',
-          'flag_category_3', 'flag_category_0']
+            'flag_category_3', 'flag_category_0']
 CAUSE = ["This activity was held in a motor vehicle",
           "This activity is incorrect",
           "GPS data is corrupted",
